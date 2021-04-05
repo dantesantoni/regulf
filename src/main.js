@@ -27,7 +27,9 @@ Vue.use(IconsPlugin)
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import './assets/styles/minty/bootstrap.min.css';
+//import './assets/styles/minty/bootstrap.min.css';
+import './assets/styles/sketchy/bootstrap.min.css';
+//import './assets/styles/cyborg/bootstrap.min.css';
 
 
 new Vue({
